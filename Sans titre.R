@@ -6,3 +6,4 @@ library(usethis)
 use_git_config(user.name = "Raikoue", user.email = "maxime.deplechin@usherbrooke.ca")
 
 gitcreds::gitcreds_set()
+lllll
